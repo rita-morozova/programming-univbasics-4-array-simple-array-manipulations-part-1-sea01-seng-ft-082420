@@ -12,7 +12,7 @@ def using_pop (array)
 end
 
 def pop_with_args (array)
-  two_last_element=array.pop[-2,-1]
+  two_last_element=array.pop[-1]
   two_last_element
 end
   
